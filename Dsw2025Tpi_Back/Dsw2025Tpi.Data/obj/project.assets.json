@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net8.0": {
       "Azure.Core/1.38.0": {
@@ -4911,23 +4911,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lucia\\.nuget\\packages\\": {},
+    "C:\\Users\\Romina\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\lucia\\Desktop\\prg\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Romina\\FACULTAD\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj",
       "projectName": "Dsw2025Tpi.Data",
-      "projectPath": "c:\\Users\\lucia\\Desktop\\prg\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj",
-      "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\lucia\\Desktop\\prg\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\obj\\",
+      "projectPath": "C:\\Users\\Romina\\FACULTAD\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj",
+      "packagesPath": "C:\\Users\\Romina\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Romina\\FACULTAD\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Romina\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4940,11 +4940,10 @@
       },
       "frameworks": {
         "net8.0": {
-          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\lucia\\Desktop\\prg\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj": {
-              "projectPath": "C:\\Users\\lucia\\Desktop\\prg\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj"
+            "C:\\Users\\Romina\\FACULTAD\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj": {
+              "projectPath": "C:\\Users\\Romina\\FACULTAD\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj"
             }
           }
         }
@@ -4959,11 +4958,10 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
-        "framework": "net8.0",
         "targetAlias": "net8.0",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
@@ -4997,7 +4995,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
