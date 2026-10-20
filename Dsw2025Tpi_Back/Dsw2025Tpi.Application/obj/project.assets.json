@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net8.0": {
       "Azure.Core/1.38.0": {
@@ -3005,23 +3005,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Romina\\.nuget\\packages\\": {},
+    "C:\\Users\\bdiaz\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Romina\\FACULTAD\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Application\\Dsw2025Tpi.Application.csproj",
+      "projectUniqueName": "C:\\Users\\bdiaz\\OneDrive\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\00-TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Application\\Dsw2025Tpi.Application.csproj",
       "projectName": "Dsw2025Tpi.Application",
-      "projectPath": "C:\\Users\\Romina\\FACULTAD\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Application\\Dsw2025Tpi.Application.csproj",
-      "packagesPath": "C:\\Users\\Romina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Romina\\FACULTAD\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Application\\obj\\",
+      "projectPath": "C:\\Users\\bdiaz\\OneDrive\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\00-TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Application\\Dsw2025Tpi.Application.csproj",
+      "packagesPath": "C:\\Users\\bdiaz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bdiaz\\OneDrive\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\00-TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Romina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bdiaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3034,13 +3034,14 @@
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Romina\\FACULTAD\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj": {
-              "projectPath": "C:\\Users\\Romina\\FACULTAD\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj"
+            "C:\\Users\\bdiaz\\OneDrive\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\00-TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj": {
+              "projectPath": "C:\\Users\\bdiaz\\OneDrive\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\00-TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj"
             },
-            "C:\\Users\\Romina\\FACULTAD\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj": {
-              "projectPath": "C:\\Users\\Romina\\FACULTAD\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj"
+            "C:\\Users\\bdiaz\\OneDrive\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\00-TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj": {
+              "projectPath": "C:\\Users\\bdiaz\\OneDrive\\OneDrive - frt.utn.edu.ar\\2026\\Ing_y_Cal_de_SW\\00-TPI\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj"
             }
           }
         }
@@ -3055,10 +3056,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
       "net8.0": {
+        "framework": "net8.0",
         "targetAlias": "net8.0",
         "imports": [
           "net461",
@@ -3076,7 +3078,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
