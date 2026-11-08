@@ -128,12 +128,23 @@ public class Program
             using (var scope = app.Services.CreateScope())
             {
                 var dbContext = scope.ServiceProvider.GetRequiredService<Dsw2025TpiContext>();
-                dbContext.Database.Migrate();
                 var authContext = scope.ServiceProvider.GetRequiredService<AuthenticateContext>();
-                authContext.Database.Migrate();
-                dbContext.Seedwork<Product>("Sources/products.json");
-                dbContext.Seedwork<Customer>("Sources/customers.json");
-                dbContext.Seedwork<Order>("Sources/orders.json");
+
+                // En Testing (WebApplicationFactory) usamos InMemory/Sqlite: EnsureCreated.
+                // En el resto de entornos se mantienen migraciones + seed como hasta ahora.
+                if (app.Environment.IsEnvironment("Testing"))
+                {
+                    await dbContext.Database.EnsureCreatedAsync();
+                    await authContext.Database.EnsureCreatedAsync();
+                }
+                else
+                {
+                    dbContext.Database.Migrate();
+                    authContext.Database.Migrate();
+                    dbContext.Seedwork<Product>("Sources/products.json");
+                    dbContext.Seedwork<Customer>("Sources/customers.json");
+                    dbContext.Seedwork<Order>("Sources/orders.json");
+                }
 
                 var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
 

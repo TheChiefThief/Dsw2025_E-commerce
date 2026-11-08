@@ -206,3 +206,24 @@ C:\Users\lucia\OneDrive - frt.utn.edu.ar\3erA\Desarrollo de Software\Chibi\TPI-F
 C:\Users\lucia\OneDrive - frt.utn.edu.ar\3erA\Desarrollo de Software\Chibi\TPI-Front\Dsw2025Tpi_Back\Dsw2025Tpi.Application\obj\Debug\net8.0\refint\Dsw2025Tpi.Application.dll
 C:\Users\lucia\OneDrive - frt.utn.edu.ar\3erA\Desarrollo de Software\Chibi\TPI-Front\Dsw2025Tpi_Back\Dsw2025Tpi.Application\obj\Debug\net8.0\Dsw2025Tpi.Application.pdb
 C:\Users\lucia\OneDrive - frt.utn.edu.ar\3erA\Desarrollo de Software\Chibi\TPI-Front\Dsw2025Tpi_Back\Dsw2025Tpi.Application\obj\Debug\net8.0\ref\Dsw2025Tpi.Application.dll
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\bin\Debug\net8.0\Sources\products.json
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\bin\Debug\net8.0\Sources\customers.json
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\bin\Debug\net8.0\Sources\orders.json
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\bin\Debug\net8.0\Dsw2025Tpi.Application.deps.json
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\bin\Debug\net8.0\Dsw2025Tpi.Application.dll
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\bin\Debug\net8.0\Dsw2025Tpi.Application.pdb
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\bin\Debug\net8.0\Dsw2025Tpi.Data.dll
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\bin\Debug\net8.0\Dsw2025Tpi.Domain.dll
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\bin\Debug\net8.0\Dsw2025Tpi.Data.pdb
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\bin\Debug\net8.0\Dsw2025Tpi.Domain.pdb
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\obj\Debug\net8.0\Dsw2025Tpi.Application.csproj.AssemblyReference.cache
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\obj\Debug\net8.0\Dsw2025Tpi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\obj\Debug\net8.0\Dsw2025Tpi.Application.AssemblyInfoInputs.cache
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\obj\Debug\net8.0\Dsw2025Tpi.Application.AssemblyInfo.cs
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\obj\Debug\net8.0\Dsw2025Tpi.Application.csproj.CoreCompileInputs.cache
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\obj\Debug\net8.0\Dsw2025Tpi.Application.sourcelink.json
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\obj\Debug\net8.0\Dsw2025T.52074EDD.Up2Date
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\obj\Debug\net8.0\Dsw2025Tpi.Application.dll
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\obj\Debug\net8.0\refint\Dsw2025Tpi.Application.dll
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\obj\Debug\net8.0\Dsw2025Tpi.Application.pdb
+C:\Users\bdiaz\OneDrive\OneDrive - frt.utn.edu.ar\2026\Ing_y_Cal_de_SW\00-TPI\Dsw2025_E-commerce\Dsw2025Tpi_Back\Dsw2025Tpi.Application\obj\Debug\net8.0\ref\Dsw2025Tpi.Application.dll
