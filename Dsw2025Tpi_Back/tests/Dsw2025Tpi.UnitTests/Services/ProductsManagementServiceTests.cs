@@ -50,6 +50,7 @@ public class ProductsManagementServiceTests
         resultado.Name.Should().Be("Laptop");
         resultado.CurrentUnitPrice.Should().Be(1200m);
         _repoMock.Verify(r => r.GetById<Product>(productId, It.IsAny<string[]>()), Times.Once);
+        Assert.True(false, "Fallo intencional para evidenciar Quality Gate");
     }
 
     [Fact]
